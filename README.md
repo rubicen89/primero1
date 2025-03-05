@@ -8,7 +8,7 @@ esto unicamente sirve para demostrar como funciona un poco github
 ## codigo
 public static void 
 primera linea de codigo;
-segunda;
+segunda; 
 tercera;
 if (condicion){
 system.out.println();
